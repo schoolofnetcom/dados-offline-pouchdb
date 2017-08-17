@@ -1,0 +1,7 @@
+config.json
+log.txt
+node_modules/
+_replicator/
+_users/
+pouch__all_dbs__/
+pouchdb_app/
